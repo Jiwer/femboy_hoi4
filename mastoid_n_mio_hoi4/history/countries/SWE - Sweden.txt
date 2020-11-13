@@ -12,8 +12,6 @@ if = {
 set_research_slots = 0
 
 add_ideas = {
-	en_svensk_tiger
-	neutrality_idea
 	mmm_im_beautiful
 	free_trade
 }

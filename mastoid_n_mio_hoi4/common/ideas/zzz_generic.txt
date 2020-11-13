@@ -1069,6 +1069,8 @@ ideas = {
 				ai_desired_divisions_factor = 0
 				non_core_manpower = -1
 				conscription = -1
+				research_speed_factor = -1
+				min_export = 0.2
 			}
 		}
 		MTG_naval_treaty_adherent_reduced = {

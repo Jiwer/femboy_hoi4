@@ -94,10 +94,6 @@ if = {
 	}
 	add_ideas = {
 		mmm_im_beautiful
-		SPA_carlism_1
-		SPR_military_disloyalty
-		SPR_political_violence
-		SPR_national_strikes_3
 		free_trade
 	}
 	165 = {

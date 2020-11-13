@@ -88,7 +88,6 @@ set_popularities = {
 }
 
 add_ideas = {
-	neutrality_idea	
 	limited_conscription
 	mmm_im_beautiful
 	free_trade

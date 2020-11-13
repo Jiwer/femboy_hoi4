@@ -49,8 +49,6 @@ if = {
 
 if = {
 	limit = { has_dlc = "La Resistance" }	
-	add_ideas = POR_unreliable_army
-	add_ideas = POR_unstable_republic
 	add_ideas = mmm_im_beautiful
 	add_ideas = free_trade
 	set_stability = 0.60
