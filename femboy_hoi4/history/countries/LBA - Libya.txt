@@ -95,7 +95,7 @@ set_popularities = {
 create_country_leader = {
 	name = "Chairman Alpha"
 	desc = ""
-	picture = "Portrait_Libya_Alpha.dds"
+	picture = "gfx/leaders/LBA/alpha.dds"
 	ideology = liberalism
 	traits = {
 		prince_of_persia
@@ -105,7 +105,7 @@ create_country_leader = {
 create_country_leader = {
 	name = "Chairman Alpha"
 	desc = ""
-	picture = "Portrait_Libya_Alpha.dds"
+	picture = "gfx/leaders/LBA/alpha.dds"
 	ideology = fascism_ideology
 	traits = {
 		prince_of_persia
@@ -115,7 +115,7 @@ create_country_leader = {
 create_country_leader = {
 	name = "Chairman Alpha"
 	desc = ""
-	picture = "Portrait_Libya_Alpha.dds"
+	picture = "gfx/leaders/LBA/alpha.dds"
 	ideology = despotism
 	traits = {
 		prince_of_persia
@@ -125,7 +125,7 @@ create_country_leader = {
 create_country_leader = {
 	name = "Chairman Alpha"
 	desc = ""
-	picture = "Portrait_Libya_Alpha.dds"
+	picture = "gfx/leaders/LBA/alpha.dds"
 	ideology = leninism
 	traits = {
 		prince_of_persia

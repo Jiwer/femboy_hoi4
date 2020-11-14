@@ -104,7 +104,7 @@ set_popularities = {
 create_country_leader = {
 	name = "Sadek"
 	desc = ""
-	picture = "gfx/leaders/SAU/Portrait_Egypt_Sadek.dds"
+	picture = "gfx/leaders/EGY/sadek.dds"
 	ideology = liberalism
 	traits = {
 		stinky_jew
@@ -114,7 +114,7 @@ create_country_leader = {
 create_country_leader = {
 	name = "Sadek"
 	desc = ""
-	picture = "gfx/leaders/SAU/Portrait_Egypt_Sadek.dds"
+	picture = "gfx/leaders/EGY/sadek.dds"
 	ideology = fascism_ideology
 	traits = {
 		stinky_jew
@@ -124,7 +124,7 @@ create_country_leader = {
 create_country_leader = {
 	name = "Sadek"
 	desc = ""
-	picture = "gfx/leaders/SAU/Portrait_Egypt_Sadek.dds"
+	picture = "gfx/leaders/EGY/sadek.dds"
 	ideology = despotism
 	traits = {
 		stinky_jew
@@ -134,7 +134,7 @@ create_country_leader = {
 create_country_leader = {
 	name = "Sadek"
 	desc = ""
-	picture = "gfx/leaders/SAU/Portrait_Egypt_Sadek.dds"
+	picture = "gfx/leaders/EGY/sadek.dds"
 	ideology = leninism
 	traits = {
 		stinky_jew
