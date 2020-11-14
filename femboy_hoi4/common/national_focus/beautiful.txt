@@ -1,0 +1,42 @@
+﻿focus_tree = {
+	id = beautiful_focus
+
+    country = {
+        factor = 0
+        
+        modifier = {
+            add = 20
+            OR = {tag = IRA
+            tag = SWE
+            tag = SWI
+            tag = VEN
+            tag = SIA
+            tag = SPR
+            tag = POR}
+        }
+    
+    }
+
+    default = no
+
+	initial_show_position = {
+		focus = focus_im_beautiful
+	}
+
+	focus = {
+		id = focus_im_beautiful
+		icon = GFX_goal_generic_demand_territory
+		x = 3
+		y = 0
+		cost = 1000
+
+		search_filters = { FOCUS_FILTER_POLITICAL }
+		
+		available_if_capitulated = yes
+
+		completion_reward = {
+
+		}
+	}	
+
+}
