@@ -3,5 +3,5 @@ tags={
 	"Balance"
 	"Alternative History"
 }
-name="Mastoid & Mio Rebalance"
+name="Femboy Rebalance"
 supported_version="1.10.2"
