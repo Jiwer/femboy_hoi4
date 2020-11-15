@@ -1,5 +1,18 @@
 leader_traits = {
+	
+	Holder_of_the_holy_slicer = {
+		random = no
+		army_core_attack_factor = 0.05
+		army_core_defence_factor = 0.05
+	}
 
+	likes_pizza = {
+		random = no
+		type = befriend
+		id = "USA"			
+		value = 200
+	}
+	
 	prince_of_persia = {
 		random = no
 		army_core_attack_factor = 0.15

@@ -152,9 +152,8 @@ set_convoys = 40
 
 create_country_leader = {
 	name = "Scary Terry"
-	desc = 
-	picture = gfx/leaders/DEN/Portrait_Scary_Terry.dds"
-	expire = "1965.1.1"
+	desc = ""
+	picture = "gfx/leaders/DEN/Terry.dds"
 	ideology = socialism
 	traits = { 
 		likes_pizza 	
