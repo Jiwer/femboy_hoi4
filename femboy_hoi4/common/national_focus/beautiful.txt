@@ -6,12 +6,13 @@
         
         modifier = {
             add = 20
-            OR = {tag = IRA
+            OR = {tag = PER
             tag = SWE
             tag = SWI
             tag = VEN
             tag = SIA
             tag = SPR
+	    tag = TUR
             tag = POR}
         }
     

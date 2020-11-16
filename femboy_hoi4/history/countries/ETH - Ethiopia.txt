@@ -86,7 +86,7 @@ create_country_leader = {
 	picture = "gfx/leaders/ETH/SheikhTerry.dds"
 	ideology = liberalism
 	traits = {
-		Holder_of_the_holy_slicer
+		
 	}
 }
 
@@ -96,7 +96,7 @@ create_country_leader = {
 	picture = "gfx/leaders/ETH/SheikhTerry.dds"
 	ideology = fascism_ideology
 	traits = {
-		Holder_of_the_holy_slicer
+		
 	}
 }
 
@@ -106,7 +106,7 @@ create_country_leader = {
 	picture = "gfx/leaders/ETH/SheikhTerry.dds"
 	ideology = despotism
 	traits = {
-		Holder_of_the_holy_slicer
+		
 	}
 }
 
@@ -116,7 +116,7 @@ create_country_leader = {
 	picture = "gfx/leaders/ETH/SheikhTerry.dds"
 	ideology = leninism
 	traits = {
-		Holder_of_the_holy_slicer
+		
 	}
 }
 
